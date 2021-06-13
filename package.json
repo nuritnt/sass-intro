@@ -1,0 +1,15 @@
+{
+  "name": "sass-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.34.1"
+  },
+  "scripts": {
+    "porridge": "sass --watch $(pwd)/src/scss:$(pwd)/build/css"
+  },
+  "author": "Tugce Nur Tas",
+  "license": "ISC"
+}
