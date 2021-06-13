@@ -13,6 +13,7 @@ $ sudo apt install nodejs npm
 ```
 
 #### Make sure you have the following folder structure
+```
 sass-intro  
 ├── build  
 │    └── css  
@@ -22,6 +23,7 @@ sass-intro
 │         └── style.scss (write your scss styles here!)  
 ├── index.html  
 ├── package.json  
+```
 
 
 #### Initialise NPM and install SASS to your devDependencies
